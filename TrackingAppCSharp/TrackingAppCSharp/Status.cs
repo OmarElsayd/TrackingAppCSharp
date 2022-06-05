@@ -8,6 +8,9 @@ namespace TrackingAppCSharp
 {
     public class Status
     {
+        /// <summary>
+        /// 
+        /// </summary>
         public int pending = 0;
         public int shipped = 0;
         public int delivered = 0;
